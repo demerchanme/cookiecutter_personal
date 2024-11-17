@@ -1,0 +1,10 @@
+name: curso_entorno_trabajo_datascience
+channels:
+  - conda-forge
+  - defaults
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+  - https://repo.anaconda.com/pkgs/msys2
+dependencies:
+  - cookiecutter=2.6.0
+prefix: C:\Users\xcfgyhjkl.-\anaconda\envs\curso_entorno_trabajo_datascience
